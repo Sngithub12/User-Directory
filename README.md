@@ -23,7 +23,7 @@ Built with **React + Tailwind CSS**, and deployed using **GitHub Pages**.
 ---
 
 ##  Live Demo
-🔗 **user-directory.mp4**
+🔗 **https://Sngithub12.github.io/User-Directory/**
 
 ---
 
