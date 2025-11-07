@@ -14,3 +14,45 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#  User Directory
+
+A simple and responsive React-based User Directory app that fetches user data from a public API.  
+It includes a live search bar, user cards, and a modal for viewing user details.  
+Built with **React + Tailwind CSS**, and deployed using **GitHub Pages**.
+
+---
+
+##  Live Demo
+🔗 **user-directory.mp4**
+
+---
+
+## 🛠️ Features
+
+- Fetches user data from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users)
+- Real-time search by user name
+- User cards with basic info
+- Modal popup with detailed user info
+- Responsive layout using Tailwind CSS
+
+---
+
+##  Tech Stack
+
+- **Frontend:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Deployment:** GitHub Pages
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Sngithub12/User-Directory.git
+cd User-Directory
+npm install
+npm run dev
+npm run build
+npm run deploy
+---
